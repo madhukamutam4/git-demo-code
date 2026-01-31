@@ -1,0 +1,4 @@
+player_name = input("Player:")
+print(player_name)
+games_played = int(input("Games Played:"))
+print(games_played)
